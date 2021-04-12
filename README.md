@@ -30,12 +30,13 @@
 
 <div align="center">
 <h3 align="center">My Workspace</h3>
+ <center>
 <table align="center" style="border:none;">
  <tr>
   <td>
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
    </td>
-    <td>
+    <td> 
  <img src="https://img.shields.io/badge/AMD-Ryzen_3_3250U-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Ryzen 3">
      </td>
       <td>
@@ -46,6 +47,7 @@
         </td>
 </tr>
 </table>
+   </center>
 </div>
 
 <details>
@@ -142,4 +144,8 @@
 > ![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 </details>
+
+<p align="center">
+:mailbox: <a href="reksa.prayoga1012@gmail.com">reksa.prayoga1012@gmail.com</a>
+</p>
 
