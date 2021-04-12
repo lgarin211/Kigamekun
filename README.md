@@ -146,6 +146,6 @@
 </details>
 
 <p align="center">
-:mailbox: <a href="reksa.prayoga1012@gmail.com">reksa.prayoga1012@gmail.com</a>
+:mailbox: <a href="https://reksa.prayoga1012@gmail.com">reksa.prayoga1012@gmail.com</a>
 </p>
 
