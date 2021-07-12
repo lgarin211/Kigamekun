@@ -79,7 +79,6 @@
 
 <summary>Backend Framework</summary>
 
-> ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 > ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
@@ -94,8 +93,6 @@
 
 <summary>Frontend Framework</summary>
 
-> ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 
 > ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -107,7 +104,7 @@
 
 <summary>Mobile Apps</summary>
 
-> ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+> ![image](https://img.shields.io/badge/Cordova-02569B?style=for-the-badge&logo=Cordova&logoColor=white)
 
 
 </details>
@@ -121,25 +118,20 @@
 
 > ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-> ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
 </details>
 
 <details>
 
 <summary>Other Skill</summary>
+> ![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-> ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+> ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
 
 > ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 > ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 > ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-> ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
-> ![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 > ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
