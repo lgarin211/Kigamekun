@@ -56,21 +56,11 @@
  
 <summary>Programming language</summary>
 
-> ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 > ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 > ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 > ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-> ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-> ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-> ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-> ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 </details>
 
@@ -78,14 +68,9 @@
 <details>
 
 <summary>Backend Framework</summary>
-
-
 > ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-> ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
 > ![image](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-
+> ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
 </details>
 
 
@@ -95,7 +80,7 @@
 
 
 > ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+> ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 
 </details>
 
@@ -104,7 +89,7 @@
 
 <summary>Mobile Apps</summary>
 
-> ![image](https://img.shields.io/badge/Cordova-02569B?style=for-the-badge&logo=Cordova&logoColor=white)
+> ![Apache Cordova](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Cordova&color=222222&logo=Apache+Cordova&logoColor=E8E8E8&label=)
 
 
 </details>
@@ -117,7 +102,7 @@
 <summary>Database</summary>
 
 > ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
+> ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 </details>
 
 <details>
@@ -140,6 +125,6 @@
 </details>
 
 <p align="center">
-:mailbox: <a href="">reksa.prayoga1012@gmail.com</a>
+:mailbox: <a href="">lagustinus211@gmail.com</a>
 </p>
 
